@@ -1,0 +1,9 @@
+address:
+  streetNo: 88
+  streetName: Decorso Drive
+  unitNo: 45
+  city: Guelph
+  postalcode: N1L0A1
+
+person:
+  name: Jeganath
